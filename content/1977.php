@@ -1,0 +1,15 @@
+<h2>1977 - DB0WY</h2>
+
+<p>
+Bei einem Besuch bei Wilhelm, DJ5HY, zeigte er mir die Relaisfunkstelle DB0WY. Schon 1960 war Wilhelm an Relaisversuchen auf der „Höhe 211“ beteiligt. Er erzählte, daß das Relais DB0WY 1971 in Betrieb genommen wurde und zwar auf 145,825 (R5) im Turm der Kirche von Levern. 1975 wurde aus R5 mit 1,6 MHz Shift R9 mit 600kHz Shift, der teure Empfangsquarz konnte weiter benutzt werden. Bei unserem Treffen war das Relais noch nicht lange auf dem Standort Büscherheide und er sagte, sie hätten sogar 600m Stromkabel legen müssen. Eine weitere Änderung war der Kanalwechsel auf R2, der 1984 zwangsläufig alle Relais auf R9 erwischt hat, als der Kanal für den Satellitenbetrieb freigemacht werden mußte. <a href="content/pdf/fm-story.pdf" target="_blank">Mehr dazu in der FM-Story</a> Weiteres auf der sehr schönen Seite über DB0WY am Ende dieser Seite in der kleinen Tabelle.
+</p>
+
+
+<div class="grid">
+    <p id="imgcaption"><img src="img/1977_bild01.jpg" id="grid_img"><br>Der Antennenmast von DB0WY im Wiehengebirge 1977 in Büscherheide bei Bad Essen.</p>
+    <p id="imgcaption"><img src="img/1977_bild02.jpg" id="grid_img">Die Relaisfunkstelle DB0WY, Sender Empfänger und unten die Weiche.</p>
+</div>
+
+<h2><p>Diebstahl der Relaisstelle DB 0 UO</p></h2>
+
+<p> Was noch erwähnenswert ist, im Sommer des Jahres 1977 konnte man abends gegen 23 Uhr DB0UO nicht mehr auftasten. Manfred fuhr am nächsten Tag zum Wasserturm, um das Relais nachzusehen, da war DB0UO gestohlen worden. Die Weiche war noch an der Wand. Was nun? Manfred, DJ6UA, erzählte die Sache den Leuten, die auf dem Wasserturmgelände arbeiteten, ob Polizei eingeschaltet wurde, kann ich nicht mehr sagen. Jedoch wurde das Relais zwei Tage später vom Sohn eines der Mitarbeiter, der auf dem Gelände wohnte, in einem Teich gefunden. Er wollte als Belohnung ein CB Funkgerät, das er auch bekam. Das Relais wurde sorgfältig getrocknet und funktionierte zum Glück noch, obwohl in der Folge zwei Ausfälle auftraten, ein Poti mußte ausgewechselt werden, später stopfte DB0UO langsam immer stärker werdend den eigenen Empfänger zu. Nach langem Suchen fand Horst, DJ3PI, den Fehler. Zwischen den Abstandsbolzen aus Messing und der versilberten Grundplatte unter der Empfängerplatine hatte sich durch das Wasser Grünspan gebildet, der als Diode wirkend das Sendesignal gleichrichtete und den Empfänger so beeinflußte. Nun bekam das Relais einen Stahlschrank und ich stiftete einen einfachen Quarzsender, den Horst mit einem Doppeltongenerator versah, beim Öffnen des Stahlschrankes wurde also sofort DB0UO hochgetastet und man hörte diesen Doppelton. Jahre später löste der Sender einmal aus, aber keiner von uns wußte mehr, was los war. Bis Manfred zum Wasserturm fuhr, weil er den vermeintlichen Störsender dort gepeilt hatte. Aber es war nur unsere Alarmanlage. 😁 </p>
